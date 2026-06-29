@@ -1,0 +1,26 @@
+[
+  {
+    "id": "note_welcome",
+    "title": "Welcome Note",
+    "content": "ALPHA is fully upgraded with Notes, Tasks, Reminders, and Web Research capabilities. Use simple natural voice or type instructions to manage them.",
+    "category": "Ideas",
+    "createdAt": "2026-06-26T05:21:56.789Z",
+    "updatedAt": "2026-06-26T05:21:56.789Z"
+  },
+  {
+    "id": "note_1782453227548",
+    "title": "Speech Verification Note",
+    "content": "Web speech synthesis verification is working perfectly.",
+    "category": "Ideas",
+    "createdAt": "2026-06-26T05:53:47.548Z",
+    "updatedAt": "2026-06-26T05:53:47.548Z"
+  },
+  {
+    "id": "note_1782580793265",
+    "title": "Beach Trip",
+    "content": "User kal beach par gaya tha.",
+    "category": "Personal",
+    "createdAt": "2026-06-27T17:19:53.266Z",
+    "updatedAt": "2026-06-27T17:19:53.266Z"
+  }
+]

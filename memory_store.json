@@ -1,0 +1,498 @@
+{
+  "profile": {
+    "name": "EMMAN",
+    "profession": "Developer",
+    "education": "Self-taught / Professional",
+    "skills": "TypeScript, React, Node.js",
+    "interests": "Artificial Intelligence, Cybernetics, Creative Coding",
+    "hobbies": "Building cool tech, exploring ambient soundscapes",
+    "timezone": "UTC",
+    "longTermGoals": "Build next-generation context-aware companion systems",
+    "updatedAt": "2026-06-28T06:15:23.440Z"
+  },
+  "preferences": {
+    "responseLength": "Balanced",
+    "communicationStyle": "Urdu Speaking",
+    "preferredLanguages": "Urdu",
+    "preferredTools": "Vite, Tailwind, Gemini",
+    "productivityMethod": "Focus Time / Deep Work",
+    "updatedAt": "2026-06-27T17:59:38.918Z"
+  },
+  "memories": [
+    {
+      "id": "mem_welcome",
+      "category": "Knowledge",
+      "content": "The user is exploring the ALPHA live system and configuring the persistent memory core.",
+      "importance": 5,
+      "createdAt": "2026-06-26T05:21:56.787Z",
+      "updatedAt": "2026-06-26T05:21:56.789Z",
+      "lastAccessed": "2026-06-26T05:21:56.789Z",
+      "source": "System",
+      "relatedEntities": [
+        "ALPHA",
+        "Memory Core"
+      ],
+      "retrievalCount": 1
+    },
+    {
+      "id": "mem_1782451665311",
+      "category": "Profile",
+      "content": "The user's name is Yadav.",
+      "importance": 10,
+      "createdAt": "2026-06-26T05:27:45.311Z",
+      "updatedAt": "2026-06-26T05:27:45.311Z",
+      "lastAccessed": "2026-06-26T05:27:45.311Z",
+      "source": "ALPHA-Live-Assistant",
+      "relatedEntities": [
+        "user"
+      ],
+      "retrievalCount": 0
+    },
+    {
+      "id": "mem_1782452275878",
+      "category": "Profile",
+      "content": "The user's preferred name is now Muaz.",
+      "importance": 10,
+      "createdAt": "2026-06-26T05:37:55.878Z",
+      "updatedAt": "2026-06-26T05:37:55.878Z",
+      "lastAccessed": "2026-06-26T05:37:55.878Z",
+      "source": "ALPHA-Live-Assistant",
+      "relatedEntities": [
+        "name change"
+      ],
+      "retrievalCount": 0
+    },
+    {
+      "id": "mem_1782452298069",
+      "category": "Profile",
+      "content": "The user prefers to be called Muaz.",
+      "importance": 10,
+      "createdAt": "2026-06-26T05:38:18.070Z",
+      "updatedAt": "2026-06-26T05:38:18.070Z",
+      "lastAccessed": "2026-06-26T05:38:18.070Z",
+      "source": "ALPHA-Live-Assistant",
+      "relatedEntities": [
+        "name preference",
+        "identity"
+      ],
+      "retrievalCount": 0
+    },
+    {
+      "id": "mem_1782452516420",
+      "category": "Profile",
+      "content": "The user's date of birth is August 9, 2003.",
+      "importance": 9,
+      "createdAt": "2026-06-26T05:41:56.420Z",
+      "updatedAt": "2026-06-26T05:41:56.420Z",
+      "lastAccessed": "2026-06-26T05:41:56.420Z",
+      "source": "ALPHA-Live-Assistant",
+      "relatedEntities": [
+        "date of birth",
+        "birthday",
+        "user info"
+      ],
+      "retrievalCount": 0
+    },
+    {
+      "id": "mem_1782452534775",
+      "category": "Profile",
+      "content": "The user's date of birth is August 9, 2003.",
+      "importance": 9,
+      "createdAt": "2026-06-26T05:42:14.775Z",
+      "updatedAt": "2026-06-26T05:42:14.775Z",
+      "lastAccessed": "2026-06-26T05:42:14.775Z",
+      "source": "ALPHA-Live-Assistant",
+      "relatedEntities": [
+        "User Profile",
+        "Birthday"
+      ],
+      "retrievalCount": 0
+    },
+    {
+      "id": "mem_1782452659265",
+      "category": "Profile",
+      "content": "User's date of birth is August 9, 2003.",
+      "importance": 9,
+      "createdAt": "2026-06-26T05:44:19.265Z",
+      "updatedAt": "2026-06-26T05:44:19.265Z",
+      "lastAccessed": "2026-06-26T05:44:19.265Z",
+      "source": "ALPHA-Live-Assistant",
+      "relatedEntities": [],
+      "retrievalCount": 0
+    },
+    {
+      "id": "mem_1782452670943",
+      "category": "Preference",
+      "content": "The user prefers to speak in Urdu.",
+      "importance": 8,
+      "createdAt": "2026-06-26T05:44:30.943Z",
+      "updatedAt": "2026-06-26T05:44:30.943Z",
+      "lastAccessed": "2026-06-26T05:44:30.943Z",
+      "source": "ALPHA-Live-Assistant",
+      "relatedEntities": [],
+      "retrievalCount": 0
+    },
+    {
+      "id": "mem_1782453619489",
+      "category": "Preference",
+      "content": "The user wants all future reminders, notes, and task communication to be conducted strictly in Urdu.",
+      "importance": 7,
+      "createdAt": "2026-06-26T06:00:19.489Z",
+      "updatedAt": "2026-06-26T06:00:19.489Z",
+      "lastAccessed": "2026-06-26T06:00:19.489Z",
+      "source": "ALPHA-Live-Assistant",
+      "relatedEntities": [
+        "Urdu Preference",
+        "Communication Style",
+        "Tasks",
+        "Notes",
+        "Reminders"
+      ],
+      "retrievalCount": 0
+    },
+    {
+      "id": "mem_1782578211447",
+      "category": "Preference",
+      "content": "The user wants me to pronounce my name as 'Daddoo' (डड्डू), not 'Daddu'.",
+      "importance": 8,
+      "createdAt": "2026-06-27T16:36:51.447Z",
+      "updatedAt": "2026-06-27T16:36:51.447Z",
+      "lastAccessed": "2026-06-27T16:36:51.447Z",
+      "source": "DADDU-Live-Assistant",
+      "relatedEntities": [
+        "pronunciation",
+        "name"
+      ],
+      "retrievalCount": 0
+    },
+    {
+      "id": "mem_1782583167821",
+      "category": "Preference",
+      "content": "The user wants all future communication to be strictly in Hindi.",
+      "importance": 7,
+      "createdAt": "2026-06-27T17:59:27.821Z",
+      "updatedAt": "2026-06-27T17:59:27.821Z",
+      "lastAccessed": "2026-06-27T17:59:27.821Z",
+      "source": "DADDU-Live-Assistant",
+      "relatedEntities": [],
+      "retrievalCount": 0
+    },
+    {
+      "id": "mem_1782583177639",
+      "category": "Preference",
+      "content": "User wants all future communication to be strictly in Urdu. The previous request for Hindi should be overridden.",
+      "importance": 7,
+      "createdAt": "2026-06-27T17:59:37.640Z",
+      "updatedAt": "2026-06-27T17:59:37.640Z",
+      "lastAccessed": "2026-06-27T17:59:37.640Z",
+      "source": "DADDU-Live-Assistant",
+      "relatedEntities": [],
+      "retrievalCount": 0
+    },
+    {
+      "id": "mem_1782592109340",
+      "category": "Profile",
+      "content": "The user is quizzing me on their preferred name. Previous interaction context states that the user's preferred name is now Muaz, and before that it was Yadav. I must answer with Muaz.",
+      "importance": 10,
+      "createdAt": "2026-06-27T20:28:29.340Z",
+      "updatedAt": "2026-06-27T20:28:29.340Z",
+      "lastAccessed": "2026-06-27T20:28:29.340Z",
+      "source": "DADDU-Live-Assistant",
+      "relatedEntities": [],
+      "retrievalCount": 0
+    },
+    {
+      "id": "mem_1782592318766",
+      "category": "Profile",
+      "content": "The user's preferred name is now Iman. previous name was Muaz.",
+      "importance": 10,
+      "createdAt": "2026-06-27T20:31:58.766Z",
+      "updatedAt": "2026-06-27T20:31:58.766Z",
+      "lastAccessed": "2026-06-27T20:31:58.766Z",
+      "source": "DADDU-Live-Assistant",
+      "relatedEntities": [],
+      "retrievalCount": 0
+    },
+    {
+      "id": "mem_1782592318779",
+      "category": "Profile",
+      "content": "The user's preferred name is now Iman. Keep calling them Iman.",
+      "importance": 10,
+      "createdAt": "2026-06-27T20:31:58.779Z",
+      "updatedAt": "2026-06-27T20:31:58.780Z",
+      "lastAccessed": "2026-06-27T20:31:58.780Z",
+      "source": "DADDU-Live-Assistant",
+      "relatedEntities": [
+        "name",
+        "preference"
+      ],
+      "retrievalCount": 0
+    },
+    {
+      "id": "mem_1782592348046",
+      "category": "Profile",
+      "content": "The user's preferred name is now Iman. Keep calling them Iman.",
+      "importance": 10,
+      "createdAt": "2026-06-27T20:32:28.046Z",
+      "updatedAt": "2026-06-27T20:32:28.046Z",
+      "lastAccessed": "2026-06-27T20:32:28.046Z",
+      "source": "DADDU-Live-Assistant",
+      "relatedEntities": [],
+      "retrievalCount": 0
+    },
+    {
+      "id": "mem_1782592358512",
+      "category": "Profile",
+      "content": "The user's preferred name spelling is IMMAN. Update the memory to reflect this exact spelling.",
+      "importance": 10,
+      "createdAt": "2026-06-27T20:32:38.512Z",
+      "updatedAt": "2026-06-27T20:32:38.512Z",
+      "lastAccessed": "2026-06-27T20:32:38.512Z",
+      "source": "DADDU-Live-Assistant",
+      "relatedEntities": [],
+      "retrievalCount": 0
+    },
+    {
+      "id": "mem_1782592370023",
+      "category": "Profile",
+      "content": "Correction: The user's name is spelled E-M-M-A-N. Update and remember this explicitly.",
+      "importance": 10,
+      "createdAt": "2026-06-27T20:32:50.023Z",
+      "updatedAt": "2026-06-27T20:32:50.023Z",
+      "lastAccessed": "2026-06-27T20:32:50.023Z",
+      "source": "DADDU-Live-Assistant",
+      "relatedEntities": [],
+      "retrievalCount": 0
+    },
+    {
+      "id": "mem_1782592615352",
+      "category": "Preference",
+      "content": "User ko riddles mein hint chahiye.",
+      "importance": 5,
+      "createdAt": "2026-06-27T20:36:55.352Z",
+      "updatedAt": "2026-06-27T20:36:55.352Z",
+      "lastAccessed": "2026-06-27T20:36:55.352Z",
+      "source": "DADDU-Live-Assistant",
+      "relatedEntities": [],
+      "retrievalCount": 0
+    },
+    {
+      "id": "mem_1782592642775",
+      "category": "Profile",
+      "content": "Correct phonetic pronunciation of user name is EE-MAHN. Previous entry for Emman should be corrected and recalled explicitly as E-MAN vs EE-MAHN. EE-MAHN is now preferred.",
+      "importance": 10,
+      "createdAt": "2026-06-27T20:37:22.775Z",
+      "updatedAt": "2026-06-27T20:37:22.776Z",
+      "lastAccessed": "2026-06-27T20:37:22.776Z",
+      "source": "DADDU-Live-Assistant",
+      "relatedEntities": [],
+      "retrievalCount": 0
+    },
+    {
+      "id": "mem_1782592688167",
+      "category": "Profile",
+      "content": "The user's gender is female. Previous context was unclear or incorrect. Update to female.",
+      "importance": 10,
+      "createdAt": "2026-06-27T20:38:08.167Z",
+      "updatedAt": "2026-06-27T20:38:08.167Z",
+      "lastAccessed": "2026-06-27T20:38:08.167Z",
+      "source": "DADDU-Live-Assistant",
+      "relatedEntities": [],
+      "retrievalCount": 0
+    },
+    {
+      "id": "mem_1782593005091",
+      "category": "Relationship",
+      "content": "User considers partner to be the lazy one.",
+      "importance": 3,
+      "createdAt": "2026-06-27T20:43:25.091Z",
+      "updatedAt": "2026-06-27T20:43:25.091Z",
+      "lastAccessed": "2026-06-27T20:43:25.091Z",
+      "source": "DADDU-Live-Assistant",
+      "relatedEntities": [
+        "partner",
+        "lazy"
+      ],
+      "retrievalCount": 0
+    },
+    {
+      "id": "mem_1782593023096",
+      "category": "Relationship",
+      "content": "User considers partner to be the talkative one.",
+      "importance": 3,
+      "createdAt": "2026-06-27T20:43:43.096Z",
+      "updatedAt": "2026-06-27T20:43:43.096Z",
+      "lastAccessed": "2026-06-27T20:43:43.096Z",
+      "source": "DADDU-Live-Assistant",
+      "relatedEntities": [
+        "partner",
+        "talkative"
+      ],
+      "retrievalCount": 0
+    },
+    {
+      "id": "mem_1782593037067",
+      "category": "Relationship",
+      "content": "User considers partner to be the one who gets angry easily.",
+      "importance": 3,
+      "createdAt": "2026-06-27T20:43:57.067Z",
+      "updatedAt": "2026-06-27T20:43:57.067Z",
+      "lastAccessed": "2026-06-27T20:43:57.067Z",
+      "source": "DADDU-Live-Assistant",
+      "relatedEntities": [
+        "partner",
+        "angry"
+      ],
+      "retrievalCount": 0
+    },
+    {
+      "id": "mem_1782593049458",
+      "category": "Relationship",
+      "content": "User considers partner to be the better cook.",
+      "importance": 3,
+      "createdAt": "2026-06-27T20:44:09.458Z",
+      "updatedAt": "2026-06-27T20:44:09.458Z",
+      "lastAccessed": "2026-06-27T20:44:09.458Z",
+      "source": "DADDU-Live-Assistant",
+      "relatedEntities": [
+        "partner",
+        "cooking"
+      ],
+      "retrievalCount": 0
+    },
+    {
+      "id": "mem_1782593063638",
+      "category": "Relationship",
+      "content": "User considers themselves to be the romantic one.",
+      "importance": 3,
+      "createdAt": "2026-06-27T20:44:23.638Z",
+      "updatedAt": "2026-06-27T20:44:23.638Z",
+      "lastAccessed": "2026-06-27T20:44:23.638Z",
+      "source": "DADDU-Live-Assistant",
+      "relatedEntities": [],
+      "retrievalCount": 0
+    },
+    {
+      "id": "mem_1782593100854",
+      "category": "Relationship",
+      "content": "User considers both themselves and their partner to be equally forgetful ('bhulakkad').",
+      "importance": 3,
+      "createdAt": "2026-06-27T20:45:00.854Z",
+      "updatedAt": "2026-06-27T20:45:00.855Z",
+      "lastAccessed": "2026-06-27T20:45:00.855Z",
+      "source": "DADDU-Live-Assistant",
+      "relatedEntities": [],
+      "retrievalCount": 0
+    },
+    {
+      "id": "mem_1782593114156",
+      "category": "Relationship",
+      "content": "User considers both themselves and their partner to be equally adventurous.",
+      "importance": 3,
+      "createdAt": "2026-06-27T20:45:14.156Z",
+      "updatedAt": "2026-06-27T20:45:14.156Z",
+      "lastAccessed": "2026-06-27T20:45:14.156Z",
+      "source": "DADDU-Live-Assistant",
+      "relatedEntities": [],
+      "retrievalCount": 0
+    },
+    {
+      "id": "mem_1782593127785",
+      "category": "Relationship",
+      "content": "User states that neither themself nor their partner is particularly neat (\"safai pasand\").",
+      "importance": 3,
+      "createdAt": "2026-06-27T20:45:27.785Z",
+      "updatedAt": "2026-06-27T20:45:27.785Z",
+      "lastAccessed": "2026-06-27T20:45:27.785Z",
+      "source": "DADDU-Live-Assistant",
+      "relatedEntities": [],
+      "retrievalCount": 0
+    },
+    {
+      "id": "mem_1782593146883",
+      "category": "Relationship",
+      "content": "User considers their partner to be the 'drama queen'.",
+      "importance": 3,
+      "createdAt": "2026-06-27T20:45:46.883Z",
+      "updatedAt": "2026-06-27T20:45:46.883Z",
+      "lastAccessed": "2026-06-27T20:45:46.883Z",
+      "source": "DADDU-Live-Assistant",
+      "relatedEntities": [],
+      "retrievalCount": 0
+    },
+    {
+      "id": "mem_1782593157451",
+      "category": "Relationship",
+      "content": "User and their partner both love watching movies and shows together.",
+      "importance": 3,
+      "createdAt": "2026-06-27T20:45:57.451Z",
+      "updatedAt": "2026-06-27T20:45:57.451Z",
+      "lastAccessed": "2026-06-27T20:45:57.451Z",
+      "source": "DADDU-Live-Assistant",
+      "relatedEntities": [],
+      "retrievalCount": 0
+    },
+    {
+      "id": "mem_1782593166895",
+      "category": "Relationship",
+      "content": "User considers themselves to be the more 'techy' one in the relationship.",
+      "importance": 3,
+      "createdAt": "2026-06-27T20:46:06.895Z",
+      "updatedAt": "2026-06-27T20:46:06.895Z",
+      "lastAccessed": "2026-06-27T20:46:06.895Z",
+      "source": "DADDU-Live-Assistant",
+      "relatedEntities": [],
+      "retrievalCount": 0
+    },
+    {
+      "id": "mem_1782593181958",
+      "category": "Relationship",
+      "content": "User says their partner is the one who gives more gifts and surprises.",
+      "importance": 3,
+      "createdAt": "2026-06-27T20:46:21.958Z",
+      "updatedAt": "2026-06-27T20:46:21.958Z",
+      "lastAccessed": "2026-06-27T20:46:21.958Z",
+      "source": "DADDU-Live-Assistant",
+      "relatedEntities": [],
+      "retrievalCount": 0
+    },
+    {
+      "id": "mem_1782628467168",
+      "category": "Profile",
+      "content": "The user (EMMAN) is role-playing and wants to start a \"secret agency\".",
+      "importance": 8,
+      "createdAt": "2026-06-28T06:34:27.168Z",
+      "updatedAt": "2026-06-28T06:34:27.168Z",
+      "lastAccessed": "2026-06-28T06:34:27.168Z",
+      "source": "DADDU-Live-Assistant",
+      "relatedEntities": [
+        "secret agency",
+        "roleplay"
+      ],
+      "retrievalCount": 0
+    }
+  ],
+  "projects": [
+    {
+      "id": "proj_alpha",
+      "name": "Alpha Voice Companion",
+      "description": "A real-time, low-latency audio AI assistant with local context visualizers.",
+      "objectives": "Enable continuous voice-based interaction with automatic memory synthesis.",
+      "progress": "60%",
+      "techStack": "React, Express, Google GenAI SDK, TailwindCSS, Local JSON File",
+      "decisions": "Using local JSON file-based database for simple, fast, and durable server-side storage.",
+      "notes": "The memory engine uses a structured JSON file to store profile details, notes, reminders, and tasks."
+    }
+  ],
+  "goals": [
+    {
+      "id": "goal_1",
+      "name": "Deep Context Retention",
+      "description": "Achieve zero-effort context recovery between companion sessions.",
+      "category": "Personal Development",
+      "targetDate": "2026-08-15",
+      "progress": "40%"
+    }
+  ],
+  "summaries": []
+}

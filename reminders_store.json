@@ -1,0 +1,182 @@
+[
+  {
+    "id": "rem_welcome",
+    "title": "Explore Phase 2 Features",
+    "description": "Create notes, organize tasks, and perform web research via live commands.",
+    "dateTime": "2026-06-25T09:00",
+    "recurrence": "none",
+    "priority": "High",
+    "completed": true,
+    "createdAt": "2026-06-26T05:21:56.789Z"
+  },
+  {
+    "id": "rem_1782453261024",
+    "title": "Check ALPHA",
+    "description": "Verification of split memory engine",
+    "dateTime": "2026-06-26T12:00",
+    "recurrence": "none",
+    "priority": "Medium",
+    "completed": true,
+    "createdAt": "2026-06-26T05:54:21.024Z"
+  },
+  {
+    "id": "rem_1782453536619",
+    "title": "کھانا کھانا ہے",
+    "description": "یاد دہانی: کھانا کھانے کا وقت ہو گیا ہے۔",
+    "dateTime": "2026-06-26T11:00",
+    "recurrence": "none",
+    "priority": "Medium",
+    "completed": true,
+    "createdAt": "2026-06-26T05:58:56.620Z"
+  },
+  {
+    "id": "rem_1782453644760",
+    "title": "کھانا کھانے کی یاددہانی",
+    "description": "",
+    "dateTime": "2026-06-26T11:02:00",
+    "recurrence": "none",
+    "priority": "Medium",
+    "completed": true,
+    "createdAt": "2026-06-26T06:00:44.761Z"
+  },
+  {
+    "id": "rem_1782453758476",
+    "title": "11:03 ka reminder",
+    "description": "",
+    "dateTime": "2026-06-26T11:03:00",
+    "recurrence": "none",
+    "priority": "Medium",
+    "completed": true,
+    "createdAt": "2026-06-26T06:02:38.477Z"
+  },
+  {
+    "id": "rem_1782453822512",
+    "title": "میں آپ کو ریمائنڈر دے رہا ہوں",
+    "description": "User wants me to remember that they are giving standard input.",
+    "dateTime": "2026-06-26T11:08",
+    "recurrence": "none",
+    "priority": "Medium",
+    "completed": true,
+    "createdAt": "2026-06-26T06:03:42.513Z"
+  },
+  {
+    "id": "rem_1782453836531",
+    "title": "میں آپ کو ریمائنڈر دے رہا ہوں",
+    "description": "User corrected the time from 5 minutes to 2 minutes from now.",
+    "dateTime": "2026-06-26T11:05",
+    "recurrence": "none",
+    "priority": "Medium",
+    "completed": true,
+    "createdAt": "2026-06-26T06:03:56.536Z"
+  },
+  {
+    "id": "rem_1782454676229",
+    "title": "کھانا کھانا ہے 2",
+    "description": "",
+    "dateTime": "2026-06-26T10:00",
+    "recurrence": "none",
+    "priority": "Medium",
+    "completed": true,
+    "createdAt": "2026-06-26T06:17:56.229Z"
+  },
+  {
+    "id": "rem_1782454743141",
+    "title": "کھانا کھانا ہے 3",
+    "description": "",
+    "dateTime": "2026-06-26T10:00",
+    "recurrence": "none",
+    "priority": "Medium",
+    "completed": true,
+    "createdAt": "2026-06-26T06:19:03.141Z"
+  },
+  {
+    "id": "rem_1782455042183",
+    "title": "کھانا کھانا ہے 4",
+    "description": "",
+    "dateTime": "2026-06-26T10:00",
+    "recurrence": "none",
+    "priority": "Medium",
+    "completed": true,
+    "createdAt": "2026-06-26T06:24:02.183Z"
+  },
+  {
+    "id": "rem_1782455067585",
+    "title": "کھانا کھانا ہے 5",
+    "description": "",
+    "dateTime": "2026-06-26T10:00",
+    "recurrence": "none",
+    "priority": "Medium",
+    "completed": true,
+    "createdAt": "2026-06-26T06:24:27.585Z"
+  },
+  {
+    "id": "rem_1782455089257",
+    "title": "کھانا کھانا ہے 6",
+    "description": "",
+    "dateTime": "2026-06-26T10:00",
+    "recurrence": "none",
+    "priority": "Medium",
+    "completed": true,
+    "createdAt": "2026-06-26T06:24:49.258Z"
+  },
+  {
+    "id": "rem_1782455124933",
+    "title": "کھانا کھانا ہے 7",
+    "description": "",
+    "dateTime": "2026-06-26T10:00",
+    "recurrence": "none",
+    "priority": "Medium",
+    "completed": true,
+    "createdAt": "2026-06-26T06:25:24.933Z"
+  },
+  {
+    "id": "rem_1782455748176",
+    "title": "کھانا کھانا ہے 8",
+    "description": "",
+    "dateTime": "2026-06-26T10:00",
+    "recurrence": "none",
+    "priority": "Medium",
+    "completed": true,
+    "createdAt": "2026-06-26T06:35:48.177Z"
+  },
+  {
+    "id": "rem_1782455748190",
+    "title": "کھانا کھانا ہے 8",
+    "description": "",
+    "dateTime": "2026-06-26T10:00",
+    "recurrence": "none",
+    "priority": "Medium",
+    "completed": true,
+    "createdAt": "2026-06-26T06:35:48.190Z"
+  },
+  {
+    "id": "rem_1782456066677",
+    "title": "ایک بندے سے ملنے جانا ہے (کام کے سلسلے میں)",
+    "description": "",
+    "dateTime": "2026-06-26T11:42:00",
+    "recurrence": "none",
+    "priority": "Medium",
+    "completed": true,
+    "createdAt": "2026-06-26T06:41:06.677Z"
+  },
+  {
+    "id": "rem_1782580656417",
+    "title": "Sona Hai!",
+    "description": "Sone ka waqt ho gaya hai! Ready for bed!",
+    "dateTime": "2026-06-27T22:19",
+    "recurrence": "none",
+    "priority": "Medium",
+    "completed": true,
+    "createdAt": "2026-06-27T17:17:36.419Z"
+  },
+  {
+    "id": "rem_1782592155204",
+    "title": "Sone ka time!",
+    "description": "",
+    "dateTime": "2026-06-28T01:30",
+    "recurrence": "none",
+    "priority": "Medium",
+    "completed": true,
+    "createdAt": "2026-06-27T20:29:15.205Z"
+  }
+]

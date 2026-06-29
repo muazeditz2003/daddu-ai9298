@@ -1,0 +1,6 @@
+﻿{
+  "name": "DADDU AI Assistant",
+  "description": "A real-time, voice-to-voice AI assistant web app providing a premium, zero-latency, voice-only conversational companion.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

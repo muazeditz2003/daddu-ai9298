@@ -1,0 +1,28 @@
+[
+  {
+    "id": "task_1",
+    "name": "Establish Local JSON Memory Engine",
+    "status": "completed",
+    "priority": "High",
+    "deadline": "2026-06-30",
+    "createdAt": "2026-06-26T05:21:56.789Z",
+    "completedAt": "2026-06-26T05:21:56.789Z"
+  },
+  {
+    "id": "task_2",
+    "name": "Build interactive Memory Explorer panel in client UI",
+    "status": "pending",
+    "priority": "Critical",
+    "deadline": "2026-07-05",
+    "createdAt": "2026-06-26T05:21:56.789Z"
+  },
+  {
+    "id": "task_1782453202623",
+    "name": "Test new split memory engine",
+    "status": "pending",
+    "priority": "Medium",
+    "deadline": "",
+    "createdAt": "2026-06-26T05:53:22.623Z",
+    "completedAt": null
+  }
+]
